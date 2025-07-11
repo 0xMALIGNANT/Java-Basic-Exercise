@@ -16,8 +16,6 @@ public class Calculator{
                         "Your Choice?: "
                         ;
 
-        System.out.print(menu);
-
         int choice = 0;
         choice = checkValidChoice(sc, choice, menu);
 
@@ -58,4 +56,3 @@ public class Calculator{
         }
     }
 }
-
