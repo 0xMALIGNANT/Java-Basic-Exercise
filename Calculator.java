@@ -21,7 +21,13 @@ public class Calculator{
 
         switch(choice) {
             case 0:
+                int[] numbers;
 
+                System.out.println("Can you Input how many numbers you want to add: ")
+                int howMany = sc.nextInt();
+                for(int i = 0)
+
+                
             case 1:
 
             case 2:
