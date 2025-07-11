@@ -7,7 +7,7 @@ public class Calculator{
     {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to Bitbleed's Bad Calculator");
+        System.out.println("Welcome to OxMALIGNANT's Bad Calculator");
 
         //MENU
         String menu =   "[0] - Addition\n" +
