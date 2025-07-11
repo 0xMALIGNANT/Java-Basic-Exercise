@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class Calculator{    
 
@@ -21,11 +22,22 @@ public class Calculator{
 
         switch(choice) {
             case 0:
-                int[] numbers;
+                ArrayList<Integer> numbers = new ArrayList<Integer>();
+                
+                System.out.println("Can you Input how many numbers you want to add: ");
 
-                System.out.println("Can you Input how many numbers you want to add: ")
-                int howMany = sc.nextInt();
-                for(int i = 0)
+                int howMany;
+                if(sc.hasNextInt()) {
+                    howMany = sc.nextInt();
+                }
+
+                else {
+                    System.out.print("you fucked up");
+                }
+
+                for(int i = 0; i < howMany; i++) {
+                    numbers.add()
+                }
 
                 
             case 1:
