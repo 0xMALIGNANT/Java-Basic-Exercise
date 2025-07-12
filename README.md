@@ -6,3 +6,6 @@ This repository contains a collection of basic Java projects and exercises that 
 
 Date: July 11, 2025 (Friday)
 Project: Calculator – A simple Java calculator was the first program I created to kick off my learning journey.
+
+Date: July 12, 2025 (Saturday)
+Project: Pyramid Cli – A simple Java for loop exercise where the user inputs a string and outputs a pyramid with proper spacing from index[0] - > index[String.length() - 1]
