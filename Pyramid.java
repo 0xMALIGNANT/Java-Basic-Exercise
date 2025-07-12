@@ -18,3 +18,7 @@ public class Pyramid{
             char printchar = pyramid_string.charAt(IndexPrint);
             System.out.print(printchar + " ");
         }
+      System.out.print("\n");
+    }
+  }
+}
