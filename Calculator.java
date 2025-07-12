@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Calculator{
 
-    String menu = "";
+    String menu = "D";
 
 
     public static void main(String[] args) {
